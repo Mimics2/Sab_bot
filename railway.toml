@@ -1,0 +1,7 @@
+[deploy]
+buildCommand = ""
+startCommand = "python bot.py"
+
+[[services]]
+name = "bot"
+timeout = 120
