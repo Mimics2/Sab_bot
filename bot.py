@@ -12,8 +12,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Конфигурация - ЗАПОЛНИТЕ СВОИ ДАННЫЕ!
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]  # Ваш Telegram ID
+BOT_TOKEN = "7557745613:AAFTpWsCJ2bZMqD6GDwTynnqA8Nc-mRF1Rs"
+ADMIN_IDS = [6646433980]  # Ваш Telegram ID
 
 # Инициализация бота
 bot = Bot(token=BOT_TOKEN)
